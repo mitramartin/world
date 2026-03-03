@@ -1,4 +1,6 @@
-title: Please attend!
+---
+title: Please attend to your raiment! 
+---
 
 First, you must know [[Introduction|you have a raiment]]. It’s a subtle organ visible to few, which connects you with crucial resources for your development. 
 
