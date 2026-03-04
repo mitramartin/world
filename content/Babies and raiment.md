@@ -1,7 +1,0 @@
-If a new human’s raiment has been supported during gestation, it will already be highly developed when she is born. It emerges into the world thirsty for entanglement, and will instantaneously and tightly entangle with its mother, father, and other trusted alloparents including siblings, and it will receive minerals from them for many months. 
-
-Lifelong connectedness with the birth parents continues under most natural conditions, mostly through physical connection, and also via pheromones when the bodies are very far from each other. Sibling raiment entanglement is a potent resource for general family and societal raiment healing work. 
-
-In felicitous situations, basic raiment preventative care begins early. A raiment is a complex ecosystem, and wellness is less about sanitation than creating a sufficiently alkaline environment that allows the flora to thrive. Baby entanglement is supported by eye gaze, melodic sounds made by a human voice, and shared rhythms. 
-
-As a raiment grows, it thrives on nightly dreaming; daily meandering; frequent convivial feasting, eudaemonic nourishment accompanied by well-ordered words among fellows. These activities provide it with the minerals its flora need to support the raiment’s structural integrity and entanglement functions — as long as the raiment is protected from noxious ecologies and unhallowed objects.
