@@ -1,3 +1,8 @@
+---
+title: Raiment Development  
+---    
+# Raiment Development
+
 As the seers have always said, no two raiments are alike, and every raiment is beautiful. An angel-hair splay is just as potent as a thatched splay, and a tent-sized superskin just as quieting as a standard aura-sized one. 
 
 Superskins can have tight or lighter bonding, as well as different surface areas and motility. Tendres can vary in thickness, density, length, elasticity. And, these features can grow and change over time based on nurture and on cultivation practices.  

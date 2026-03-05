@@ -1,3 +1,8 @@
+---
+title: Who can see raiment?  
+---    
+# Who can see raiment
+
 Everyone has the basic biological apparatus to see raiment, which is the same apparatus that allows us to remember dreams.   
 
 Normal preverbal children perceive raiment with ease. If you have ever noticed a baby or a toddler gazing at you persistingly and with great interest, probably they are inspecting your raiment.   

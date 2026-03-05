@@ -1,3 +1,7 @@
+---
+title: Raiment skills  
+---    
+# Raiment skills
 #### Cloaking
 
 The hallmark of a great raiment is a continuous protective superskin: a cloak. Even if your raiment is robust, well-nourished, and exuberant, it takes work to cloak, and like everything else, it takes practice! 

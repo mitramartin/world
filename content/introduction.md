@@ -1,3 +1,8 @@
+---
+title: Introduction  
+---    
+# Introduction
+
 Welcome. If you’re reading this, you are part of a secret society of people who either know, or believe, or want to believe, that raiment exists. You are among friends here. 
 
 You won’t learn our names, however. Given how polarizing this topic has become, it’s not safe for us to share our identities; we must protect the seers among us. We pray the times will change. 

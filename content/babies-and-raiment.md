@@ -1,3 +1,8 @@
+---
+title: Babies and raiment  
+---    
+# Babies and raiment
+
 If a new human’s raiment has been supported during gestation, it will already be highly developed when she is born. It emerges into the world thirsty for entanglement, and will instantaneously and tightly entangle with its mother, father, and other trusted alloparents including siblings, and it will receive minerals from them for many months. 
 
 Lifelong connectedness with the birth parents continues under most natural conditions, mostly through physical connection, and also via pheromones when the bodies are very far from each other. Sibling raiment entanglement is a potent resource for general family and societal raiment healing work. 

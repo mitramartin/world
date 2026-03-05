@@ -1,3 +1,8 @@
+---
+title: What Your Raiment Does  
+---    
+# What Your Raiment Does
+
 Raiment is tightly correlated with human wellbeing and flourishing. To understand why, let’s look at how it works.   
 
 Raiment’s first function is one of *establishing sanctuary*. This is the role of the superskin. When it is activated, you have the capacity to be where you are, while doing what you’re doing. A macroscopic protective membrane of great genius, it proffers such profound and ongoing respite such that simply being, in any particular moment, feels extremely new.

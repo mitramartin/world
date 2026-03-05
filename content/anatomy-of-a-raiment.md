@@ -1,3 +1,8 @@
+---
+title: Anatomy of a Raiment  
+---    
+# Anatomy of a Raiment
+
 Raiment has four main parts: 
 
 The *nimbus* - This is the disc encircling the crown that the filaments are rooted into.  

@@ -1,3 +1,8 @@
+---
+title: Invitation  
+---    
+# Invitation
+
 Ye Meanderers, witches, hopefuls, polyparents, and spiders of all shapes and sizes: 
 
 I herewith invite you to join the newly emerging, radical, ultra-denominational: RAIMENT WELLNESS COLLECTIVE.   

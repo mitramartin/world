@@ -1,3 +1,8 @@
+---
+title: What Is Raiment?  
+---    
+# What Is Raiment?  
+
 Picture a mop of differentiated intelligent sensate filaments coming out of your head, like a headdress. This is your raiment. 
 
 You may have seen it depicted as a flame-like shape, like a troll’s hair. Sometimes, it looks like that. Sometimes it looks more like a sea anemone or algae.
