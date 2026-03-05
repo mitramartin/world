@@ -1,7 +1,6 @@
 ---
 title: Invitation  
 ---    
-# Invitation
 
 Ye Meanderers, witches, hopefuls, polyparents, and spiders of all shapes and sizes: 
 
