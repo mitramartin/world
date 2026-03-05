@@ -1,0 +1,14 @@
+---
+title: Noxious Ecologies
+---
+# Noxious Ecologies
+
+Raiment is profoundly inclusive and can easily encompass many human-made objects without harm. The only requirement is that tools and devices must go through a hallowing to become raiment-safe. The hallowing cleanses them of any kinds of spikes, blades, or parasites that impair raiment. 
+
+(The topic of hallowing is treated at length and definitively in the volume An Introduction to Hallowing by a collective of distinguished and learned thaumaturges from the College of Diviners, so we will not go into it here.) 
+
+Unhallowed tools and technologies have the capacity to become entire geographies, enclosing and immersing their users into ill-defined Wild West dream ectopias. Today, raiment damage and raiment sickness is one of the great plagues on the current times we live in due to the wacky underworld called Fone.
+
+Of course there are some places that have been somewhat more effective in metabolizing the propinquity of Fone. Meander, for instance. And the Meander text, *A Pattern Language for Paradise*, deciphers the raimentine import of the Meander experiment, which is considerable. Those without access to such knowledge, unfortunately, struggle behind; most Alexandria polises fall into this category. 
+
+With almost 1.9 billion child souls currently at risk of raiment devastation as a result of unfettered access, Fone is by far the single biggest danger to raiment of our times, for many reasons, mostly related to the multitudes of parasitic species it houses. Flying Decimals are the most malignant of these, especially those that have been augmented with tech company prostheses.
