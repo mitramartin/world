@@ -1,5 +1,6 @@
 ---
 title: Notes on tango as an operating system
+author: Mehrzad Esfandiari
 ---
 Conventional operating system: “thinking.” Throughout Alexandria it provides the main go-to interface between bodies and possibilities. 
 

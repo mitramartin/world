@@ -1,5 +1,6 @@
 ---
 title: Notes on the children’s corridor
+author: Mehrzad Esfandiari
 ---
 Unpacking M. Montessori’s prepared environment: let us align on “place as teacher.” Cf also Reggio Emilia  
 

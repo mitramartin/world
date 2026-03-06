@@ -1,5 +1,6 @@
 ---
 title: Notes for a Sixteenth
+author: Mehrzad Esfandiari
 ---
 At this age a person is exquisitely capable — hugely idealistic — feels they are The One. This calls for a structured transformation over a wide time horizon. 
 

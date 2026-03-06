@@ -1,5 +1,6 @@
 ---
 title: Notes on why rites are important
+author: Mehrzad Esfandiari
 ---
 Conventional birthday parties are not perfect. Often they are watered-down rituals — expensive, consumption-focused, exhausting to produce for overextended parents. Yet perhaps there is signal in the noise?
 

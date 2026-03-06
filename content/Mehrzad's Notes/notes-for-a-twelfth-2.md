@@ -1,5 +1,6 @@
 ---
 title: Notes for a Twelfth - 2
+author: Mehrzad Esfandiari
 ---
 Purpose: 
 Core idea is to free the child to ask questions that will open her life  

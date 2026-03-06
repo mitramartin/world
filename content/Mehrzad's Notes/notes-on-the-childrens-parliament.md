@@ -1,7 +1,7 @@
 ---
 title: Notes on the children’s parliament
+author: Mehrzad Esfandiari
 ---
-
 Conventional assumption: *children cannot govern*
 
 As a result: they grow up without practicing governance
