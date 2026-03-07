@@ -1,5 +1,5 @@
 ---
-title: Splay skills: Chunking & Orchestrating
+title: Splay skills- Chunking & Orchestrating
 ---    
 #### Chunking
 

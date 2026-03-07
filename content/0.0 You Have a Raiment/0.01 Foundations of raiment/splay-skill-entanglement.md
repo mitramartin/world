@@ -1,5 +1,5 @@
 ---
-title: Splay skills: Entanglement
+title: Splay skills- Entanglement
 ---    
 
 Okay, now that we’ve covered [[superskin-skill-cloaking|skills related to the outermost circle of filaments]], let’s look at the inner circles: the splay. This is essentially the development of fine-motor skills for the tendres. 
