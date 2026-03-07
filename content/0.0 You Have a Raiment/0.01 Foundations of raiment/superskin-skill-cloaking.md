@@ -1,5 +1,5 @@
 ---
-title: Superskin skill: Cloaking
+title: Superskin skill- Cloaking
 ---    
 #### Cloaking
 
