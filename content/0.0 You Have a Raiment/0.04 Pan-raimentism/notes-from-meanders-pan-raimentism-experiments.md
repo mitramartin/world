@@ -3,9 +3,9 @@ title: Notes from Meander’s pan-raimentism experiments
 ---
 Early groups of pan-raiment theorists proposed that the health of young raiments was so critically decisive to the pan-raiment project (not to mention the future of our species) that a social enterprise built intentionally around centering the raiment health of the young would be a project of the utmost value. 
 
-Over two decades, they collaboratively developed a pattern language for the pan-health of earth’s youthful raiment, drawing on modalities as diverse as mixed-methods research, urban design, lucid dreaming, entheogens, and thaumaturgy. The project did not receive public acclaim but has been deeply influential for pragmatic utopianists of these times. 
+Over two decades, they collaboratively developed a pattern language for the pan-health of earth’s youthful raiment, drawing on modalities as diverse as mixed-methods research, urban design, lucid dreaming, entheogens, and thaumaturgy. 
 
-Mehrzad Esfandiari was an active member and contributor to the project, and authored several patterns in the form of his distilled “Notes,” which will be included below, where relevant and necessary, in their original, unedited form.  
+The project, code-named INTI (Is Not This I?) did not receive public acclaim but has been deeply influential for pragmatic utopianists of these times. Mehrzad Esfandiari was an active member and contributor to the INTI project, and authored several patterns in the form of his distilled “[[Notes]].”
 ### Core pan-raiment patterns 
 
 The pan-raiment proposal project identified the following core patterns to support the development of a sane and wholesome universal youth raiment. These are: 

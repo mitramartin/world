@@ -1,7 +1,7 @@
 ---
 title: Pan-raiment disruption forces
 ---
-There are many forces and factors that get in the way of weaving a planetary pan-raiment, even just between humans. These include:
+Clearly, there are many forces and factors that get in the way of weaving a planetary pan-raiment, even just between humans. These include:
 
 1. Dwindling supply of places that support the very basics of a healthy superskin and splay;
 2. Lack of access to interpersonal somatics practices to support raiment cultivation;

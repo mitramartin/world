@@ -27,6 +27,8 @@ Entanglement requires the development of fine-motor skills for the tendres. occu
 
 When you entangle with another, the exchange of nutrients between tendres invigorates them, and so does the exercise. Over time and with practice, each entangled tendre slowly grows, thickens, and becomes more elastic, bringing more structural integrity to the entangled unit.
 
+Entanglement is always mutual, reciprocal, complementary, and consensual. In the past, it was said that entanglement was also always embodied; however, it has been recently demonstrated that entanglements are in fact possible across remote distances between the tendres of bodies that have never encountered one another in physical space, which suggests that their Facing likely happened in dream or past life (for instance).
+
 #### Pluming
 
 A happy, healthy raiment under normal circumstances will blossom. A stalk will erupt from the center of the nimbus, grow, and blossom with a brightly colored richly ornamented flower spike: a Plume! At first these were seen as merely decorative but, as you will learn in future chapters, they actually have important personal and societal functions — mostly in the context of attracting valuable and expansive inter-species partnerships.
