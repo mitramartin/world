@@ -1,7 +1,6 @@
 ---
 title: What Is Raiment?  
 ---    
-# What Is Raiment?  
 
 Picture a mop of differentiated intelligent sensate filaments coming out of your head, like a headdress. This is your raiment. 
 
@@ -9,4 +8,4 @@ You may have seen it depicted as a flame-like shape, like a troll’s hair. Some
 
 Ancient paintings depict raiment as an external skinlike balloon surrounding the human body. Indeed, raiment can form itself into a elastic ethereal membrane, varying widely in size from snug-to-skin, to roughly the size of a medium-sized room. 
 
-The variety and complexity of expressions of a raiment make it both an exciting organ to study, and one that requires an attentive approach.
+The variety and complexity of [[anatomy-of-a-raiment|raiment anatomy]] makes it both an exciting organ to study, and one that requires an attentive approach.

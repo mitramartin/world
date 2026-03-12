@@ -1,9 +1,8 @@
 ---
 title: Anatomy of a Raiment  
 ---    
-# Anatomy of a Raiment
 
-Raiment has four main parts: 
+Raiment has four main parts which together serve its [[what-your-raiment-does|functions]]. 
 
 The *nimbus* - This is the disc encircling the crown that the filaments are rooted into.  
 
@@ -12,3 +11,9 @@ The *superskin* - The outermost circle of filaments, which has protective qualit
 The *splay*, made up of millions of tendres  - Most of the raiment is made out of these inner filaments, called tendres, which reach out into the seen and unseen world in different directions. They are organs of exchange; they can receive and also transmit nutrients to other tendres. Healthy tendres are quite elastic, and often continue their trails invisibly through pheromones emitted from their tips.
 
 The *flora* - Tiny microscopic eusocial bugs live inside the raiment facilitating all these processes.
+
+Now, as the seers have always said, no two raiments are alike, and every raiment is beautiful. An angel-hair splay is just as potent as a thatched splay, and a tent-sized superskin just as quieting as a standard aura-sized one. 
+
+Superskins can have tight or lighter bonding, as well as different surface areas and motility. Tendres can vary in thickness, density, length, elasticity. And, these features can grow and change over time based on nurture and on cultivation practices.  
+
+
