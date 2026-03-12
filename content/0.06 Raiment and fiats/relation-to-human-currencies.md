@@ -1,0 +1,10 @@
+---
+title: Relation to human currencies
+---
+Lots of people wonder what fiats have to do with human-made currencies — currencies for instance like experience points (XP), Hearts, and Rotcoin. In fact they have no connection to them. These currencies basically operate like untethered game pieces; they ebb and flow and move around but truthfully they have no direct relation to fiats. Basically, having a lot of dough doesn’t mean that a fiat loves you. 
+
+Someone with lots of XP, for instance, may still be able to find and forcefully wrangle a fiat just by luck but probably not a very healthy one. Then they incarcerate it, and trade its shares through a central bureaucratic administration function. Over time this won’t help their raiment. Despite propaganda to the contrary, Rotcoin barons have never successfully seduced a free fiat. 
+
+But, manmade currency systems can be useful, indirectly. They can be used to coordinate energies for intelligent investments, specifically into pan-raimentine projects. Now, projects like that DO relate to fiats, because anything that encourages raiment-cultivation means more pluming which leads to more and more fiats in the neighborhood. Which is very, very good for raiment. 
+
+Of course, a fiat kingdom is never guaranteed, and the timescale is mysterious.
