@@ -1,6 +1,0 @@
----
-title: Raiment pluming
----    
-### Pluming
-
-A happy, healthy raiment under normal circumstances will blossom. A stalk will erupt from the center of the nimbus, grow, and blossom with a brightly colored richly ornamented flower spike: a Plume! At first these were seen as merely decorative but, as you will learn in future chapters, they actually have important personal and societal functions. In brief, plumes are used mostly in the context of attracting valuable and expansive inter-species partnerships.

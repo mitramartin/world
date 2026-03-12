@@ -1,6 +1,0 @@
----
-title: Raiment-supporting deities
----
-Tango Guild has a handful of associated deities who specialize in interpersonal somatics and especially entanglement. Nobody regulates or mediates their presence but they support raiment in the following ways: 1) facilitating attuned encounters; 2) kindling polyphonic musings; and 2) orienting toward wholesome closures. 
-
-Deities are seldom-seen; community members access their input via the core filaments of their raiment. Guidance enters raiment in the form of thoughts, sounds, dreams, words, images, which then is pressure-tested, interpreted, iterated, and refined through assiduous embodied practice and peer-reviewed publication, social performance art, and mad games. Some say these deities have past experience doing muse work in other parts of reality. Most agree that they are pretty chill and have a really soft touch. In light of this, it should not be a surprise that some members (especially when in direct contact with the Alexandria’s Guild Accreditation Council or its director) do actually refer to it as the “tango church.”
