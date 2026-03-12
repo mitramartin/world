@@ -1,8 +1,0 @@
----
-title: Different cultural interpretations of the fiat
----
-Some cultures love, trust, and revere fiats. Although fiats are sometimes unpredictable and seducing one can be tedious, these cultures believe that their communal goals of wellbeing cannot be achieved without healthy relationships with free fiats. 
-
-Some cultures are very afraid of fiats. They believe it is dangerous to see a fiat, perilous to seduce a fiat, and problematic to try to govern one. These cultures have evolved belief systems and myths that suggest that contact with a fiat is highly radioactive. In these cultures, fiats should only be handled by certified, trained handlers. In these cultures, it is a common practice to capture and incarcerate fiats and freeze them as a public demonstration of sheer coercive capacity. They then create tokens that represent shares of fiat ownership, which are traded by members, which is to say they undersign coercion as a basis for society.  
-
-Of course a frozen fiat can’t protect anyone’s raiment, but the people who run these operations don’t mind, because they don’t know they even have a raiment.
