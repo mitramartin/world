@@ -1,0 +1,12 @@
+---
+title: Place as teacher
+author: 
+- Sousana Esfandiari
+- Mehrzad Esfandiari
+source: Meander General Circle archives
+---
+
+The pan-raiment pattern language deliberations gave us a fresh perspective on education for raiment health, focused on environmental design. It was this thinking that led to the commitment to the children’s corridor, which was greatly facilitated by Meander’s fiat _twolemny, who Placed herself accordingly after being thoroughly tickled by Callie Tickell.
+
+* [[notes-on-place-as-teacher|Notes on place as teacher]]
+
