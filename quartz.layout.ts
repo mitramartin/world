@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
 footer: Component.Footer({
   links: {
-    "It often happens that, as people explore this pamphlet, their raiment skillfully entangles with those of others who are seeking raiment-tonic places and practices. Perhaps a name or the face of someone you know is inadvertently activated in your raiment. You are welcome to invite them via this specially constructed portal.": "https://youhavearaiment.com",
+    "Here is a secret portal you can use to invite raiment-aligned fellows to this unfurling Fone project.": "https://youhavearaiment.com/portal",
     "Entanglement support": "mailto:mitra.martin@gmail.com",
   },
 }),
