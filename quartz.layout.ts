@@ -6,10 +6,9 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
- footer: Component.Footer({
-  text: "It often happens that, as people explore this pamphlet, their raiment skillfully entangles with those of others who are seeking raiment-tonic places and practices. Perhaps a name or the face of someone you know is inadvertently activated in your raiment. You are welcome to invite them via this specially constructed portal.",
+footer: Component.Footer({
   links: {
-    "Enter": "https://youhavearaiment.com/portal",
+    "It often happens that, as people explore this pamphlet, their raiment skillfully entangles with those of others who are seeking raiment-tonic places and practices. Perhaps a name or the face of someone you know is inadvertently activated in your raiment. You are welcome to invite them via this specially constructed portal.": "https://youhavearaiment.com",
     "Entanglement support": "mailto:mitra.martin@gmail.com",
   },
 }),
