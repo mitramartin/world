@@ -6,12 +6,13 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+ footer: Component.Footer({
+  text: "It often happens that, as people explore this pamphlet, their raiment skillfully entangles with those of others who are seeking raiment-tonic places and practices. Perhaps a name or the face of someone you know is inadvertently activated in your raiment. You are welcome to invite them via this specially constructed portal.",
+  links: {
+    "Enter": "https://youhavearaiment.com/portal",
+    "Entanglement support": "mailto:mitra.martin@gmail.com",
+  },
+}),
 }
 
 // components for pages that display a single page (e.g. a single note)
